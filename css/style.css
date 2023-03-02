@@ -62,6 +62,9 @@ main{
 .cella{
     border: 1px solid black;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .cella-10{
     height: calc(100% / 10);

@@ -82,7 +82,7 @@ gioca.addEventListener(
         const classeDifficolta = selezioneDifficolta(difficolta);
         const maxCelle = numeroCelle(difficolta);
 
-        // chimata alla funzione per il ciclo che crea le celle
+        // chiamata alla funzione per il ciclo che crea le celle
         cicloCrea(classeDifficolta,maxCelle,tavoloGioco);
     }
 )
