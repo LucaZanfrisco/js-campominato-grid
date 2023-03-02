@@ -46,7 +46,7 @@ header{
 /* ------- */
 /* Main */
 main{
-    background-color: aqua;
+    background-color: aquamarine;
     flex-grow: 1;
     display: flex;
     justify-content: center;
@@ -55,7 +55,6 @@ main{
 .tavolo{
     width: 37.5rem;
     height: 37.5rem;
-    background-color: antiquewhite;
     display: flex;
     flex-wrap: wrap;
     align-content: flex-start;
@@ -75,6 +74,9 @@ main{
 .cella-7{
     width: calc(100% / 7);
     height: calc(100% / 7);
+}
+.cliccato{
+    background-color: blue;
 }
 /* ------- */
 /* Footer */
