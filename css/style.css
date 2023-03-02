@@ -36,6 +36,9 @@ header{
 }
 #difficolta{
     font-size: inherit;
+    width: 200px;
+    background-color: black;
+    color: white;
 }
 .btn{
     font-size: inherit;
@@ -43,6 +46,7 @@ header{
     border: 1px solid black;
     border-radius: .375rem;
 }
+
 /* ------- */
 /* Main */
 main{
@@ -80,6 +84,7 @@ main{
 }
 .cliccato{
     background-color: blue;
+    color: white;
 }
 /* ------- */
 /* Footer */
